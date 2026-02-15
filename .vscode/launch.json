@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GestionaleRistoranteApplication<gestionaleRistorante>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.gestionaleRistorante.GestionaleRistoranteApplication",
+            "projectName": "gestionaleRistorante",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
